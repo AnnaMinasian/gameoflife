@@ -1,0 +1,39 @@
+ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: middle;
+  font-weight: normal;
+  line-height: 0px;
+}
+.cellContainer {
+    width: 15px;
+    height: 15px;
+    border: 1px solid rgb(66, 66, 66);
+}
+.board {
+    position: relative;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+li {
+    display: inline-block;
+}
+.controls {
+    text-align: center;
+    margin-top: 60px;
+}
+button {
+    width: 120px;
+    height: 40px;
+    background-color: #cc2d35;
+    border: 0.5px solid black;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+    outline: none;
+}
